@@ -9,11 +9,11 @@ Overall, college enrollments in the U.S. declined by 4% during the year 2020 due
 
 **Guiding Analysis Questions**
 
-Has public high school enrollment fallen like college enrollment?
-Do public high school enrollments vary by student ethnicity and gender in 2020?
-Do public high school enrollments vary between student of different economic advantage in 2020?
-What has been the trend of public high school enrollment before the pandemic?
-If an enrollment trend is recognized, can there be an explanation to change in the enrollment ?
+- Has public high school enrollment fallen like college enrollment?
+- Do public high school enrollments vary by student ethnicity and gender in 2020?
+- Do public high school enrollments vary between student of different economic advantage in 2020?
+- What has been the trend of public high school enrollment before the pandemic?
+- If an enrollment trend is recognized, can there be an explanation to change in the enrollment ?
 
 ![](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment/blob/main/images/total%20enrollment%20trend.png)
 
