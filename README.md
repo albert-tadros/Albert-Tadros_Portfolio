@@ -15,7 +15,7 @@ Overall, college enrollments in the U.S. declined by 4% during the year 2020 due
 - What has been the trend of public high school enrollment before the pandemic?
 - If an enrollment trend is recognized, can there be an explanation to change in the enrollment ?
 
-![](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment/blob/main/images/total%20enrollment%20trend.png)
+![](https://github.com/albert-tadros/Albert-Tadros_Portfolio/blob/main/images/total%20enrollment%20trend.png)
 
 # [Project 2: Maven Toyes Profit Margin](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
 
@@ -31,4 +31,4 @@ Overall, college enrollments in the U.S. declined by 4% during the year 2020 due
 
 **Executive Summary:** This project provides an analysis and strategic recommendations for improving sales margins at Maven Toys by analyzing company wide and individual store data to identify specific products that can improve sales margin and by association sales revenue. The project will also identify products that hinder sales margin through analysis of low sales revenue and products with long shelf lifes. The method of our analysis consists of calculating average cost, generated sale revenue, product margin, variable correlation and age of inventory.
 
-![](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project/blob/main/images/Top%20Selling%20Products.png)
+![](https://github.com/albert-tadros/Albert-Tadros_Portfolio/blob/main/images/Top%20Selling%20Products.png)
