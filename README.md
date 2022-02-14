@@ -1,6 +1,42 @@
-# Albert Tadros Data Analysis Projects
+# Albert Tadros Projects
 
-# [Project 1: The impact of COVID19 on the NYC Public High School Enrollment](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment)
+# [Project 1: LOOK UP | Social Interaction Mobile App](https://github.com/tpandos/lookup)
+
+***Our mobile application promotes and facilitates connection between people that are in near proximity. Consider someone who has a great idea but needs help from someone with a particular skill set. What if this person can find exactly who they are looking for at the Cafe ́ they always visit? Lookup provide an interface that can connect people more locally, allowing them to find the people that fit the criteria of their search within a limited distance relative to their location.
+We want the user to have access to other individual who are at walking distance from them, who can spare a few minutes to meet in person and establish the beginning of a real interpersonal relationship.
+Closing the distance gap can promote not only a more reliable interaction but also a literary closer one. Our mobile application LOOK UP is a social media app that helps promote more face-to-face interaction.***
+
+ **MVP**
+- User can register
+- User can Login
+- User can update profile
+- User can upload profile picture
+- User can allow access Location
+- User can search for others around them, based on 1 keyword skill and filter by distance or
+ranking
+- User can view other profiles
+- User can send connection(friend) request to other users
+- User will receive a notification if so one wants to connect with them, they can either accept or deny the request
+ 
+ **App Development Tools:**
+ - React Native using expo(for front end)
+ - Node.js, express ( for backend)
+ - MongoDB ( to save user information)
+ - Cloudinary ( to store user profile pictures)
+ - Herokuapp (API)
+ 
+ **Demo: the following Gifs are two-part demos of all the functionalities of the app**
+ 
+ ***Part 1:***
+ 
+ ![lookup_demo_part1](https://user-images.githubusercontent.com/78925894/153927990-02591a94-5d00-4679-9b46-95c65ae1eeec.gif)
+
+ ***Part 2:***
+ 
+ ![lookup_demo_part2](https://user-images.githubusercontent.com/78925894/153928248-d83d0e48-454f-47c3-acc8-be0acc7f7018.gif)
+
+
+# [Project 2: The impact of COVID19 on the NYC Public High School Enrollment](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment)
 ***This python data analysis project aims to investigate any change in the enrollment number of high school students in NYC public school during COVID19 pandemic. The data used for the analysis was secondary data sourced from [the New York State Education Department Data website](https://data.nysed.gov/). The analysis was implemented using Python on Jupyter notebooks. The following python's data analysis libraries: Numpy, Pandas, Matplotlib, and Seaborn, were mainly used in the project.***
 
 **Problem Statement**
@@ -17,7 +53,7 @@ Overall, college enrollments in the U.S. declined by 4% during the year 2020 due
 
 ![](./images/total%20enrollment%20trend.png)
 
-# [Project 2: Maven Toyes Profit Margin](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
+# [Project 3: Maven Toyes Profit Margin](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
 
 ***This python data analysis project aims to improve the profit margin of the company Maven Toys using the company's products, sales, stores, and inventory data. The analysis was implemented using Python on Jupyter notebooks. The following python's data analysis libraries: Numpy, Pandas, Matplotlib, and Seaborn, were mainly used in the project.***
 
