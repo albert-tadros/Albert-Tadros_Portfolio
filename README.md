@@ -1,5 +1,7 @@
 # Albert Tadros Projects
 
+## Click on each project's title for the project github code.
+
 # [Project 1: LOOK UP | Social Interaction Mobile App](https://github.com/tpandos/lookup)
 
 ***Our mobile application promotes and facilitates connection between people that are in near proximity. Consider someone who has a great idea but needs help from someone with a particular skill set. What if this person can find exactly who they are looking for at the Cafe ́ they always visit? Lookup provide an interface that can connect people more locally, allowing them to find the people that fit the criteria of their search within a limited distance relative to their location.
