@@ -38,7 +38,37 @@ ranking
  ![lookup_demo_part2](https://user-images.githubusercontent.com/78925894/153928248-d83d0e48-454f-47c3-acc8-be0acc7f7018.gif)
 
 
-# [Project 2: The impact of COVID19 on the NYC Public High School Enrollment](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment)
+# [Project 2: Gratuity | Codepath Prework Tip Calculator](https://github.com/albert-tadros/Codepath--iOS)
+
+**Gratuity** is a tip calculator application for iOS.
+
+by: **Albert Tadros**
+
+Time spent: **9** hours spent in total
+
+## User Stories
+
+The following functionality is complete:
+
+* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+
+The following features are implemented:
+
+* [ ] UI animations
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+![Gratuity App ezgif com-gif-maker](https://user-images.githubusercontent.com/78925894/150757099-c29e3359-2ca3-440f-a3a6-7716be0fa9bd.gif)
+ 
+
+
+# [Project 3: The impact of COVID19 on the NYC Public High School Enrollment](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment)
 ***This python data analysis project aims to investigate any change in the enrollment number of high school students in NYC public school during COVID19 pandemic. The data used for the analysis was secondary data sourced from [the New York State Education Department Data website](https://data.nysed.gov/). The analysis was implemented using Python on Jupyter notebooks. The following python's data analysis libraries: Numpy, Pandas, Matplotlib, and Seaborn, were mainly used in the project.***
 
 **Problem Statement**
@@ -55,7 +85,7 @@ Overall, college enrollments in the U.S. declined by 4% during the year 2020 due
 
 ![](./images/total%20enrollment%20trend.png)
 
-# [Project 3: Maven Toyes Profit Margin](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
+# [Project 4: Maven Toyes Profit Margin](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
 
 ***This python data analysis project aims to improve the profit margin of the company Maven Toys using the company's products, sales, stores, and inventory data. The analysis was implemented using Python on Jupyter notebooks. The following python's data analysis libraries: Numpy, Pandas, Matplotlib, and Seaborn, were mainly used in the project.***
 
