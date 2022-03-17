@@ -38,33 +38,27 @@ ranking
  ![lookup_demo_part2](https://user-images.githubusercontent.com/78925894/153928248-d83d0e48-454f-47c3-acc8-be0acc7f7018.gif)
 
 
-# [Project 2: Gratuity | Codepath Prework Tip Calculator](https://github.com/albert-tadros/Codepath--iOS)
+# [Project 2: Flix ](https://github.com/albert-tadros/Codepath-iOS-Flix)
 
 **Gratuity** is a tip calculator application for iOS.
 
-by: **Albert Tadros**
+# Flix
 
-Time spent: **9** hours spent in total
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-## User Stories
+### User Stories
+- [x] User can tap a cell to see more details about a particular movie.
+- [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+- [x] User can tap a poster in the collection view to see a detail screen of that movie.
+- [x] In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
-The following functionality is complete:
+### App Walkthrough GIF
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-
-The following features are implemented:
-
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+![part2](https://user-images.githubusercontent.com/78925894/156969046-62c38b66-ad48-4457-a233-2adf51e665f6.gif)
 
 
-## Video Walkthrough
+---
 
-Here's a walkthrough of implemented user stories:
-
-![Gratuity App ezgif com-gif-maker](https://user-images.githubusercontent.com/78925894/150757099-c29e3359-2ca3-440f-a3a6-7716be0fa9bd.gif)
  
 
 
