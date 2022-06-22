@@ -56,7 +56,8 @@ ranking
  
  ![lookup_demo_part2](https://user-images.githubusercontent.com/78925894/153928248-d83d0e48-454f-47c3-acc8-be0acc7f7018.gif)
 
-# [Personal Webiste: Personal Site](https://albert-tadros.github.io/albert-tadros-site/) 
+# [Project 3: Personal Website](https://albert-tadros.github.io/albert-tadros-site/) 
+
 **Developed this personal website using HTML5 and CSS.** 
 
 **Deployed the app on Github Pages**
