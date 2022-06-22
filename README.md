@@ -87,6 +87,10 @@ ranking
      * Learning rate = 0.001
      * Epochs = 30 
 
+![](./images/10 seg, 30 epochs, accuracy.png)
+
+
+
 
 # [Project 2: The impact of COVID19 on the NYC Public High School Enrollment](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment)
 ***This python data analysis project aims to investigate any change in the enrollment number of high school students in NYC public school during COVID19 pandemic. The data used for the analysis was secondary data sourced from [the New York State Education Department Data website](https://data.nysed.gov/). The analysis was implemented using Python on Jupyter notebooks. The following python's data analysis libraries: Numpy, Pandas, Matplotlib, and Seaborn, were mainly used in the project.***
