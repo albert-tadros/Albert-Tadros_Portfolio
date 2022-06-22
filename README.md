@@ -1,8 +1,10 @@
 # Albert Tadros Projects
 
-## Click on each project's title for the project github code.
+## Click on each project's title for the project github code
 
 # Software Development Projects
+
+
 # [Project 1: Flix ](https://github.com/albert-tadros/Codepath-iOS-Flix)
 
 # Flix
@@ -54,8 +56,9 @@ ranking
  
  ![lookup_demo_part2](https://user-images.githubusercontent.com/78925894/153928248-d83d0e48-454f-47c3-acc8-be0acc7f7018.gif)
 
+# [Personal Site](https://albert-tadros.github.io/albert-tadros-site/) 
 
-
+![website gif](https://user-images.githubusercontent.com/78925894/175169320-e5fb3092-2e1f-4303-b3c7-c15939fcb0f2.gif)
 
 ---
 
