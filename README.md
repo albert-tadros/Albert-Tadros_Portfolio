@@ -62,7 +62,7 @@ ranking
 
 # Data Science and Machine Learning Projects
 
-# [Project 1: Piano Chords Recognition Using CNN]
+# [Project 1: Piano Chords Recognition Using CNN](https://github.com/albert-tadros/Piano-Chords-Recognition-Using-CNN)
 **Motivation Behind Project:**
 - Beginner music producers may find it difficult to identify chords in a song A chord: is at least 3 music notes played simultaneously to create harmony
 - What if there is way to give a program the chords, and program returns what chord it is! This what the project is about
@@ -71,6 +71,7 @@ ranking
 
 **Dataset**
 - Piano Triad Waveset on Kaggle: Dataset consists of 362 Wav files of piano triads (3 sec length)
+   - https://www.kaggle.com/datasets/davidbroberts/piano-triads-wavset
 
 **Implemtation**
 - Processing Audio Data: The goal of data processing is to represent audio waveforms (with features) as numerical data that can be used in training model.
@@ -82,15 +83,20 @@ ranking
    * For training:
      * 75% of data allocated for training and 25% for testing
      * 20% of the testing data used to evaluate accuracy and error in training
+
 **Results**
 * High accuracy and minimized loss were obtained at:
      * Learning rate = 0.001
      * Epochs = 30 
 
-![](./images/10 seg, 30 epochs, accuracy.png)
+<img width="837" alt="10 seg, 30 epochs, accuracy" src="https://user-images.githubusercontent.com/78925894/175131753-3eec4400-92ba-4ae2-a8fc-0eedcf83ca53.png">
 
 
+<img width="879" alt="10 seg, 30 epochs, error" src="https://user-images.githubusercontent.com/78925894/175131825-0f80ffbb-839f-4dc9-8268-037a550a635d.png">
 
+**Using the trained model to make a prediction**
+
+<img width="1401" alt="predicted" src="https://user-images.githubusercontent.com/78925894/175131912-05634a08-e55b-4702-a70f-2c93feca9f3a.png">
 
 # [Project 2: The impact of COVID19 on the NYC Public High School Enrollment](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment)
 ***This python data analysis project aims to investigate any change in the enrollment number of high school students in NYC public school during COVID19 pandemic. The data used for the analysis was secondary data sourced from [the New York State Education Department Data website](https://data.nysed.gov/). The analysis was implemented using Python on Jupyter notebooks. The following python's data analysis libraries: Numpy, Pandas, Matplotlib, and Seaborn, were mainly used in the project.***
@@ -109,7 +115,7 @@ Overall, college enrollments in the U.S. declined by 4% during the year 2020 due
 
 ![](./images/total%20enrollment%20trend.png)
 
-# [Project 5: Maven Toyes Profit Margin](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
+# [Project 3: Maven Toyes Profit Margin](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
 
 ***This python data analysis project aims to improve the profit margin of the company Maven Toys using the company's products, sales, stores, and inventory data. The analysis was implemented using Python on Jupyter notebooks. The following python's data analysis libraries: Numpy, Pandas, Matplotlib, and Seaborn, were mainly used in the project.***
 
